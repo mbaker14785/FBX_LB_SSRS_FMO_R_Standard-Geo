@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "FBX_LB_SSRS_FMO_R_Standard Geo", "FBX_LB_SSRS_FMO_R_Standard Geo\FBX_LB_SSRS_FMO_R_Standard Geo.rptproj", "{4E584A52-EFA2-4A81-8A0A-11CD7CC4265A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E584A52-EFA2-4A81-8A0A-11CD7CC4265A}.Debug|Default.ActiveCfg = Debug
+		{4E584A52-EFA2-4A81-8A0A-11CD7CC4265A}.Debug|Default.Build.0 = Debug
+		{4E584A52-EFA2-4A81-8A0A-11CD7CC4265A}.Debug|Default.Deploy.0 = Debug
+		{4E584A52-EFA2-4A81-8A0A-11CD7CC4265A}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{4E584A52-EFA2-4A81-8A0A-11CD7CC4265A}.DebugLocal|Default.Build.0 = DebugLocal
+		{4E584A52-EFA2-4A81-8A0A-11CD7CC4265A}.Release|Default.ActiveCfg = Release
+		{4E584A52-EFA2-4A81-8A0A-11CD7CC4265A}.Release|Default.Build.0 = Release
+		{4E584A52-EFA2-4A81-8A0A-11CD7CC4265A}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57A2B6F5-C2A6-40B8-A978-3E78952F9AD3}
+	EndGlobalSection
+EndGlobal
